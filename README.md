@@ -9,8 +9,7 @@ How to set up and run project.
 
 On the new device, open a terminal and run:
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone(https://github.com/sanskritig741/Object_detection)
 
 
 ---
@@ -19,7 +18,7 @@ cd your-repo-name
 
 python -m venv venv
 source venv/bin/activate       
-# On Windows: venv\Scripts\activate
+ On Windows: venv\Scripts\activate
 
 
 ---
